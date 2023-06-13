@@ -1,2 +1,4 @@
-@import url('base.css ');
-@import url('/Web-Dev-Explain/assets/css/includes/includes.css');
+@import url('base.css');
+@import url('variables.css');
+@import url('includes/includes.css');
+@import url('templates/templates.css');

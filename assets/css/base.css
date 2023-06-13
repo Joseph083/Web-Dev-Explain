@@ -1,13 +1,54 @@
+/* 
+    Variables 
+*/
+
+:root{
+    --primary_color: #5D1763;
+    --seconday_color: #151712;
+    --tertiary_color: ;
+    --white: #FFFDFD;
+
+    --primary_font: 'Fredoka', sans-serif;
+    --seconday_font: 'Rubik', sans-serif;
+}
+
 /*
 
     Styles for General Pages and Generic name class
 
 */
 
-.btn{
-    
+*{
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    text-decoration: none;
 }
 
 .skip-to-content{
     position: absolute;
+    top: -60px;
+    transition: all 0.5s;
+}
+.skip-to-content:focus{
+    top: 0px;
+    transition: all 0.5s;
+}
+
+.btn{
+    padding: 10px 20px;
+    background-color: var(--white);
+    border: 1px solid var(--primary_color);
+    color: var(--primary_color);
+    font-family: var(--primary_font);
+}
+.btn:hover, .btn:focus{
+    background-color: var(--primary_color);
+    color: var(--white);
+}
+
+li{
+    list-style: none;
 }
