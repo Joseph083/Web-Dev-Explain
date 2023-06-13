@@ -30,7 +30,7 @@ a{
 .skip-to-content{
     position: absolute;
     top: -60px;
-    transition: all 0.5s;
+    transition: all 0.5s; 
 }
 .skip-to-content:focus{
     top: 0px;
