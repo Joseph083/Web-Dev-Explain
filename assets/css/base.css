@@ -25,6 +25,7 @@
 
 a{
     text-decoration: none;
+    font-family: var(--seconday_font);
 }
 
 .skip-to-content{
@@ -51,4 +52,19 @@ a{
 
 li{
     list-style: none;
+}
+
+h1,h2,h3,h4,h5,h6{
+    font-family: var(--primary_font);
+}
+
+p{
+    font-family: var(--seconday_font);
+}
+
+.hidden{
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    display: none;
 }

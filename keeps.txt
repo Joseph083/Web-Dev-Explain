@@ -1,0 +1,43 @@
+Morado Oscuro (Principal):
+
+Código Hexadecimal: #6A0DAD
+RGB: (106, 13, 173)
+Morado Medio:
+
+Código Hexadecimal: #8A44B4
+RGB: (138, 68, 180)
+Morado Claro:
+
+Código Hexadecimal: #B77ED5
+RGB: (183, 126, 213)
+Rosa Pálido:
+
+Código Hexadecimal: #E6B1F2
+RGB: (230, 177, 242)
+Gris Pálido:
+
+Código Hexadecimal: #EDEDF1
+RGB: (237, 237, 241)
+
+
+
+Negro (Principal):
+
+Código Hexadecimal: #000000
+RGB: (0, 0, 0)
+Gris Oscuro:
+
+Código Hexadecimal: #333333
+RGB: (51, 51, 51)
+Gris Medio:
+
+Código Hexadecimal: #666666
+RGB: (102, 102, 102)
+Gris Claro:
+
+Código Hexadecimal: #999999
+RGB: (153, 153, 153)
+Blanco:
+
+Código Hexadecimal: #FFFFFF
+RGB: (255, 255, 255)
